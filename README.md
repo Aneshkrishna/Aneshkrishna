@@ -14,6 +14,9 @@ About Me:
   
   📫 Mail me at aneshkrishna99@gmail.com.
 
+Languages and Tools:
+  Javascript (Node Js, Angular, Express JS), Flask (Intermediate) , Database(MYSQL, MongoDB), Python, C, C++, HTML5, CSS3 - Bootstrap 4
+
 <!--
 **Aneshkrishna/Aneshkrishna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
