@@ -3,11 +3,16 @@
 Full Stack Developer and Software Engineering Student at CIT
 
 About Me:
-  💻 I'm a Web APP and Mobile Application Developer
-  📝 Done intern at Front-end Development using Angular
+
+  💻 I'm a Web APP and Mobile Application Developer.
+  
+  📝 Done intern at Front-end Development using Angular.
+  
   💼 I’m also pursuing a Master's degree in Software Engineering.
+  
   🤔 My interests are in UI developments and Mobile app development.
-  📫 Mail me at aneshkrishna99@gmail.com
+  
+  📫 Mail me at aneshkrishna99@gmail.com.
 
 <!--
 **Aneshkrishna/Aneshkrishna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
